@@ -1,0 +1,22 @@
+0. Create a GitHub account:
+https://github.com/join
+
+1. Kaggle with exercises:
+https://www.kaggle.com/learn/python
+
+2. HackerRank:
+https://www.hackerrank.com/domains/python
+
+3. DataCamp Introduction to Python:
+https://learn.datacamp.com/courses/intro-to-python-for-data-science?utm_source=adwords_ppc&utm_campaignid=1457170716&utm_adgroupid=59514458874&utm_device=c&utm_keyword=%2Bpython%20%2Bcourse&utm_matchtype=b&utm_network=g&utm_adpostion=&utm_creative=278703599441&utm_targetid=aud-392016246653:kwd-33801671747&utm_loc_interest_ms=&utm_loc_physical_ms=9070053&gclid=Cj0KCQiAnb79BRDgARIsAOVbhRo0yK9o6pXoX7KlqrWFc8tm2Df2TSrOAULxuorO4XaT8LI_Puj9M6caArzlEALw_wcB
+
+4. DataCamp Still need to check:
+https://learn.datacamp.com/courses
+
+5. CodeAcademy ****
+https://www.codecademy.com/learn/learn-python-3
+
+6. CodeAcademy Youtube tutorial Still need to check:
+https://www.youtube.com/watch?v=2dmBp5RydwE
+
+
